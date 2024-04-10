@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Gwyneth 👋
 
+* 🔭 I’m currently working at Home
+* 🌱 I’m currently using `Java`, `Python`, `Javascript`
+* ✈️ Open to Remote Job Opportunities 🍻
+* 👀 Feel free to contact me via [Whatsapp](https://wa.me/+84981956089) <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg" width="20" height="20"> 
 <!--
 **derimouse/derimouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
